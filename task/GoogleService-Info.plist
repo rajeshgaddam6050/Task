@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>48001560695-bi1v91a9g2lv65p6pt09h0g0kuaneut6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.48001560695-bi1v91a9g2lv65p6pt09h0g0kuaneut6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEVQOZZSfFddZhT-4vP_KT28pXVyDUTHI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>48001560695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobiotics.task</string>
+	<key>PROJECT_ID</key>
+	<string>task-5600b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>task-5600b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:48001560695:ios:48a55a0db483fb4f</string>
+	<key>DATABASE_URL</key>
+	<string>https://task-5600b.firebaseio.com</string>
+</dict>
+</plist>
